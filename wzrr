@@ -20,3 +20,40 @@ IP-CIDR, 59.37.97.0/24
 IP-CIDR, 61.140.13.0/24
 IP-CIDR, 61.151.224.100/24
 IP-CIDR, 61.191.0.0/24
+IP-CIDR, 58.246.223.140/24, Fndroid,no-resolve
+IP-CIDR, 58.250.136.0/24, Fndroid,no-resolve
+IP-CIDR, 58.251.139.0/24, Fndroid,no-resolve
+IP-CIDR, 61.129.8.0/24, Fndroid,no-resolve
+IP-CIDR, 61.151.225.249/24, Fndroid,no-resolve
+IP-CIDR, 101.37.15.0/24, Fndroid,no-resolve
+IP-CIDR, 101.89.15.142/24, Fndroid,no-resolve
+IP-CIDR, 101.226.90.176/24, Fndroid,no-resolve
+IP-CIDR, 101.226.103.77/24, Fndroid,no-resolve
+IP-CIDR, 101.226.103.110/24, Fndroid,no-resolve
+IP-CIDR, 101.226.129.0/24, Fndroid,no-resolve
+IP-CIDR, 101.226.213.140/24, Fndroid,no-resolve
+IP-CIDR, 101.227.162.110/24, Fndroid,no-resolve
+IP-CIDR, 101.227.168.0/24, Fndroid,no-resolve
+IP-CIDR, 103.18.208.0/24, Fndroid,no-resolve
+IP-CIDR, 110.75.246.3/8, Fndroid,no-resolve
+IP-CIDR, 111.161.54.47/24, Fndroid,no-resolve
+IP-CIDR, 111.161.80.77/24, Fndroid,no-resolve
+IP-CIDR, 111.202.99.18/24, Fndroid,no-resolve
+IP-CIDR, 117.144.242.115/24, Fndroid,no-resolve
+IP-CIDR, 117.144.243.171/24, Fndroid,no-resolve
+IP-CIDR, 120.204.10.204/24, Fndroid,no-resolve
+IP-CIDR, 121.51.142.0/24, Fndroid,no-resolve
+IP-CIDR, 125.39.133.100/24, Fndroid,no-resolve
+IP-CIDR, 125.39.248.0/24, Fndroid,no-resolve
+IP-CIDR, 140.207.54.118/24, Fndroid,no-resolve
+IP-CIDR, 140.207.69.43/24, Fndroid,no-resolve
+IP-CIDR, 140.207.119.111/24, Fndroid,no-resolve
+IP-CIDR, 140.207.122.0/24, Fndroid,no-resolve
+IP-CIDR, 140.207.127.0/24, Fndroid,no-resolve
+IP-CIDR, 140.207.189.23/24, Fndroid,no-resolve
+IP-CIDR, 203.205.151.0/24, Fndroid,no-resolve
+IP-CIDR, 218.98.0.0/24, Fndroid,no-resolve
+IP-CIDR, 219.133.60.0/24, Fndroid,no-resolve
+IP-CIDR, 223.166.150.0/24, Fndroid,no-resolve
+IP-CIDR, 223.167.86.33/24, Fndroid,no-resolve
+IP-CIDR, 223.167.104.0/24, Fndroid,no-resolve
